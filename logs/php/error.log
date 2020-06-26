@@ -1,0 +1,248 @@
+[17-Jun-2020 20:59:38 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\translation-install.php on line 65
+[17-Jun-2020 20:59:38 UTC] PHP Stack trace:
+[17-Jun-2020 20:59:38 UTC] PHP   1. {main}() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\options-general.php:0
+[17-Jun-2020 20:59:38 UTC] PHP   2. wp_get_available_translations() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\options-general.php:158
+[17-Jun-2020 20:59:38 UTC] PHP   3. translations_api() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\translation-install.php:126
+[17-Jun-2020 20:59:38 UTC] PHP   4. trigger_error() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\translation-install.php:65
+[17-Jun-2020 21:03:41 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\translation-install.php on line 65
+[17-Jun-2020 21:03:41 UTC] PHP Stack trace:
+[17-Jun-2020 21:03:41 UTC] PHP   1. {main}() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\options-general.php:0
+[17-Jun-2020 21:03:41 UTC] PHP   2. wp_get_available_translations() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\options-general.php:158
+[17-Jun-2020 21:03:41 UTC] PHP   3. translations_api() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\translation-install.php:126
+[17-Jun-2020 21:03:41 UTC] PHP   4. trigger_error() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\translation-install.php:65
+[18-Jun-2020 11:57:11 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\translation-install.php on line 65
+[18-Jun-2020 11:57:11 UTC] PHP Stack trace:
+[18-Jun-2020 11:57:11 UTC] PHP   1. {main}() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\options-general.php:0
+[18-Jun-2020 11:57:11 UTC] PHP   2. wp_get_available_translations() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\options-general.php:158
+[18-Jun-2020 11:57:11 UTC] PHP   3. translations_api() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\translation-install.php:126
+[18-Jun-2020 11:57:11 UTC] PHP   4. trigger_error() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\translation-install.php:65
+[22-Jun-2020 07:28:32 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\translation-install.php on line 65
+[22-Jun-2020 07:28:32 UTC] PHP Stack trace:
+[22-Jun-2020 07:28:32 UTC] PHP   1. {main}() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\options-general.php:0
+[22-Jun-2020 07:28:32 UTC] PHP   2. wp_get_available_translations() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\options-general.php:158
+[22-Jun-2020 07:28:32 UTC] PHP   3. translations_api() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\translation-install.php:126
+[22-Jun-2020 07:28:32 UTC] PHP   4. trigger_error() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\translation-install.php:65
+[22-Jun-2020 07:30:29 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\translation-install.php on line 65
+[22-Jun-2020 07:30:29 UTC] PHP Stack trace:
+[22-Jun-2020 07:30:29 UTC] PHP   1. {main}() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\options-general.php:0
+[22-Jun-2020 07:30:29 UTC] PHP   2. wp_get_available_translations() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\options-general.php:158
+[22-Jun-2020 07:30:29 UTC] PHP   3. translations_api() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\translation-install.php:126
+[22-Jun-2020 07:30:29 UTC] PHP   4. trigger_error() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\translation-install.php:65
+[22-Jun-2020 07:32:53 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\translation-install.php on line 65
+[22-Jun-2020 07:32:53 UTC] PHP Stack trace:
+[22-Jun-2020 07:32:53 UTC] PHP   1. {main}() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\options-general.php:0
+[22-Jun-2020 07:32:53 UTC] PHP   2. wp_get_available_translations() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\options-general.php:158
+[22-Jun-2020 07:32:53 UTC] PHP   3. translations_api() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\translation-install.php:126
+[22-Jun-2020 07:32:53 UTC] PHP   4. trigger_error() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\translation-install.php:65
+[22-Jun-2020 07:33:19 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\translation-install.php on line 65
+[22-Jun-2020 07:33:19 UTC] PHP Stack trace:
+[22-Jun-2020 07:33:19 UTC] PHP   1. {main}() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\options-general.php:0
+[22-Jun-2020 07:33:19 UTC] PHP   2. wp_get_available_translations() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\options-general.php:158
+[22-Jun-2020 07:33:19 UTC] PHP   3. translations_api() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\translation-install.php:126
+[22-Jun-2020 07:33:19 UTC] PHP   4. trigger_error() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\translation-install.php:65
+[22-Jun-2020 08:56:31 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\translation-install.php on line 65
+[22-Jun-2020 08:56:31 UTC] PHP Stack trace:
+[22-Jun-2020 08:56:31 UTC] PHP   1. {main}() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\options-general.php:0
+[22-Jun-2020 08:56:31 UTC] PHP   2. wp_get_available_translations() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\options-general.php:158
+[22-Jun-2020 08:56:31 UTC] PHP   3. translations_api() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\translation-install.php:126
+[22-Jun-2020 08:56:31 UTC] PHP   4. trigger_error() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\translation-install.php:65
+[22-Jun-2020 08:59:37 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\translation-install.php on line 65
+[22-Jun-2020 08:59:37 UTC] PHP Stack trace:
+[22-Jun-2020 08:59:37 UTC] PHP   1. {main}() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\options-general.php:0
+[22-Jun-2020 08:59:37 UTC] PHP   2. wp_get_available_translations() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\options-general.php:158
+[22-Jun-2020 08:59:37 UTC] PHP   3. translations_api() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\translation-install.php:126
+[22-Jun-2020 08:59:37 UTC] PHP   4. trigger_error() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\translation-install.php:65
+[22-Jun-2020 08:59:41 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\translation-install.php on line 65
+[22-Jun-2020 08:59:41 UTC] PHP Stack trace:
+[22-Jun-2020 08:59:41 UTC] PHP   1. {main}() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\options-general.php:0
+[22-Jun-2020 08:59:41 UTC] PHP   2. wp_get_available_translations() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\options-general.php:158
+[22-Jun-2020 08:59:41 UTC] PHP   3. translations_api() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\translation-install.php:126
+[22-Jun-2020 08:59:41 UTC] PHP   4. trigger_error() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\translation-install.php:65
+[22-Jun-2020 10:07:36 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\translation-install.php on line 65
+[22-Jun-2020 10:07:36 UTC] PHP Stack trace:
+[22-Jun-2020 10:07:36 UTC] PHP   1. {main}() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\options-general.php:0
+[22-Jun-2020 10:07:36 UTC] PHP   2. wp_get_available_translations() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\options-general.php:158
+[22-Jun-2020 10:07:36 UTC] PHP   3. translations_api() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\translation-install.php:126
+[22-Jun-2020 10:07:36 UTC] PHP   4. trigger_error() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\translation-install.php:65
+[22-Jun-2020 11:25:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\theme.php on line 550
+[22-Jun-2020 11:25:18 UTC] PHP Stack trace:
+[22-Jun-2020 11:25:18 UTC] PHP   1. {main}() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\admin-ajax.php:0
+[22-Jun-2020 11:25:18 UTC] PHP   2. do_action() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\admin-ajax.php:173
+[22-Jun-2020 11:25:18 UTC] PHP   3. WP_Hook->do_action() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\plugin.php:465
+[22-Jun-2020 11:25:18 UTC] PHP   4. WP_Hook->apply_filters() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\class-wp-hook.php:310
+[22-Jun-2020 11:25:18 UTC] PHP   5. wp_ajax_query_themes() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\class-wp-hook.php:286
+[22-Jun-2020 11:25:18 UTC] PHP   6. themes_api() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\ajax-actions.php:3292
+[22-Jun-2020 11:37:04 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\translation-install.php on line 65
+[22-Jun-2020 11:37:04 UTC] PHP Stack trace:
+[22-Jun-2020 11:37:04 UTC] PHP   1. {main}() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\options-general.php:0
+[22-Jun-2020 11:37:04 UTC] PHP   2. wp_get_available_translations() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\options-general.php:158
+[22-Jun-2020 11:37:04 UTC] PHP   3. translations_api() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\translation-install.php:126
+[22-Jun-2020 11:37:04 UTC] PHP   4. trigger_error() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\translation-install.php:65
+[22-Jun-2020 13:33:48 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\translation-install.php on line 65
+[22-Jun-2020 13:33:49 UTC] PHP Stack trace:
+[22-Jun-2020 13:33:49 UTC] PHP   1. {main}() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\options-general.php:0
+[22-Jun-2020 13:33:49 UTC] PHP   2. wp_get_available_translations() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\options-general.php:158
+[22-Jun-2020 13:33:49 UTC] PHP   3. translations_api() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\translation-install.php:126
+[22-Jun-2020 13:33:49 UTC] PHP   4. trigger_error() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\translation-install.php:65
+[23-Jun-2020 02:49:01 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\plugin-install.php on line 180
+[23-Jun-2020 02:49:01 UTC] PHP Stack trace:
+[23-Jun-2020 02:49:01 UTC] PHP   1. {main}() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\plugin-install.php:0
+[23-Jun-2020 02:49:01 UTC] PHP   2. do_action() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\plugin-install.php:170
+[23-Jun-2020 02:49:01 UTC] PHP   3. WP_Hook->do_action() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\plugin.php:465
+[23-Jun-2020 02:49:01 UTC] PHP   4. WP_Hook->apply_filters() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\class-wp-hook.php:310
+[23-Jun-2020 02:49:01 UTC] PHP   5. install_dashboard() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\class-wp-hook.php:286
+[23-Jun-2020 02:49:01 UTC] PHP   6. install_popular_tags() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\plugin-install.php:271
+[23-Jun-2020 02:49:01 UTC] PHP   7. plugins_api() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\plugin-install.php:246
+[23-Jun-2020 02:49:01 UTC] PHP   8. trigger_error() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\plugin-install.php:180
+[23-Jun-2020 02:51:47 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\plugin-install.php on line 180
+[23-Jun-2020 02:51:47 UTC] PHP Stack trace:
+[23-Jun-2020 02:51:47 UTC] PHP   1. {main}() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\plugin-install.php:0
+[23-Jun-2020 02:51:47 UTC] PHP   2. do_action() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\plugin-install.php:170
+[23-Jun-2020 02:51:47 UTC] PHP   3. WP_Hook->do_action() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\plugin.php:465
+[23-Jun-2020 02:51:47 UTC] PHP   4. WP_Hook->apply_filters() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\class-wp-hook.php:310
+[23-Jun-2020 02:51:47 UTC] PHP   5. install_dashboard() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\class-wp-hook.php:286
+[23-Jun-2020 02:51:47 UTC] PHP   6. install_popular_tags() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\plugin-install.php:271
+[23-Jun-2020 02:51:47 UTC] PHP   7. plugins_api() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\plugin-install.php:246
+[23-Jun-2020 02:51:47 UTC] PHP   8. trigger_error() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\plugin-install.php:180
+[23-Jun-2020 02:52:23 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\update.php on line 160
+[23-Jun-2020 02:52:23 UTC] PHP Stack trace:
+[23-Jun-2020 02:52:23 UTC] PHP   1. {main}() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\update.php:0
+[23-Jun-2020 02:52:23 UTC] PHP   2. Plugin_Upgrader->install() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\update.php:162
+[23-Jun-2020 02:52:23 UTC] PHP   3. Plugin_Upgrader->run() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\class-plugin-upgrader.php:108
+[23-Jun-2020 02:52:23 UTC] PHP   4. do_action() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\class-wp-upgrader.php:835
+[23-Jun-2020 02:52:23 UTC] PHP   5. WP_Hook->do_action() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\plugin.php:465
+[23-Jun-2020 02:52:23 UTC] PHP   6. WP_Hook->apply_filters() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\class-wp-hook.php:310
+[23-Jun-2020 02:52:23 UTC] PHP   7. wp_version_check() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\class-wp-hook.php:284
+[23-Jun-2020 02:52:23 UTC] PHP   8. trigger_error() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\update.php:160
+[23-Jun-2020 02:52:23 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\update.php on line 384
+[23-Jun-2020 02:52:23 UTC] PHP Stack trace:
+[23-Jun-2020 02:52:23 UTC] PHP   1. {main}() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\update.php:0
+[23-Jun-2020 02:52:23 UTC] PHP   2. Plugin_Upgrader->install() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\update.php:162
+[23-Jun-2020 02:52:23 UTC] PHP   3. Plugin_Upgrader->run() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\class-plugin-upgrader.php:108
+[23-Jun-2020 02:52:23 UTC] PHP   4. do_action() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\class-wp-upgrader.php:835
+[23-Jun-2020 02:52:23 UTC] PHP   5. WP_Hook->do_action() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\plugin.php:465
+[23-Jun-2020 02:52:23 UTC] PHP   6. WP_Hook->apply_filters() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\class-wp-hook.php:310
+[23-Jun-2020 02:52:23 UTC] PHP   7. wp_update_plugins() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\class-wp-hook.php:284
+[23-Jun-2020 02:52:23 UTC] PHP   8. trigger_error() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\update.php:384
+[23-Jun-2020 02:52:23 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\update.php on line 569
+[23-Jun-2020 02:52:23 UTC] PHP Stack trace:
+[23-Jun-2020 02:52:23 UTC] PHP   1. {main}() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\update.php:0
+[23-Jun-2020 02:52:23 UTC] PHP   2. Plugin_Upgrader->install() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\update.php:162
+[23-Jun-2020 02:52:23 UTC] PHP   3. Plugin_Upgrader->run() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\class-plugin-upgrader.php:108
+[23-Jun-2020 02:52:23 UTC] PHP   4. do_action() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\class-wp-upgrader.php:835
+[23-Jun-2020 02:52:23 UTC] PHP   5. WP_Hook->do_action() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\plugin.php:465
+[23-Jun-2020 02:52:23 UTC] PHP   6. WP_Hook->apply_filters() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\class-wp-hook.php:310
+[23-Jun-2020 02:52:23 UTC] PHP   7. wp_update_themes() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\class-wp-hook.php:284
+[23-Jun-2020 02:52:23 UTC] PHP   8. trigger_error() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\update.php:569
+[23-Jun-2020 02:53:19 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\plugin-install.php on line 180
+[23-Jun-2020 02:53:19 UTC] PHP Stack trace:
+[23-Jun-2020 02:53:19 UTC] PHP   1. {main}() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\plugin-install.php:0
+[23-Jun-2020 02:53:19 UTC] PHP   2. do_action() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\plugin-install.php:170
+[23-Jun-2020 02:53:19 UTC] PHP   3. WP_Hook->do_action() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\plugin.php:465
+[23-Jun-2020 02:53:19 UTC] PHP   4. WP_Hook->apply_filters() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\class-wp-hook.php:310
+[23-Jun-2020 02:53:19 UTC] PHP   5. install_dashboard() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\class-wp-hook.php:286
+[23-Jun-2020 02:53:19 UTC] PHP   6. install_popular_tags() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\plugin-install.php:271
+[23-Jun-2020 02:53:19 UTC] PHP   7. plugins_api() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\plugin-install.php:246
+[23-Jun-2020 02:53:19 UTC] PHP   8. trigger_error() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\plugin-install.php:180
+[23-Jun-2020 02:53:38 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\update.php on line 160
+[23-Jun-2020 02:53:38 UTC] PHP Stack trace:
+[23-Jun-2020 02:53:38 UTC] PHP   1. {main}() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\update.php:0
+[23-Jun-2020 02:53:38 UTC] PHP   2. Plugin_Upgrader->install() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\update.php:162
+[23-Jun-2020 02:53:38 UTC] PHP   3. Plugin_Upgrader->run() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\class-plugin-upgrader.php:108
+[23-Jun-2020 02:53:38 UTC] PHP   4. do_action() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\class-wp-upgrader.php:835
+[23-Jun-2020 02:53:38 UTC] PHP   5. WP_Hook->do_action() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\plugin.php:465
+[23-Jun-2020 02:53:38 UTC] PHP   6. WP_Hook->apply_filters() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\class-wp-hook.php:310
+[23-Jun-2020 02:53:38 UTC] PHP   7. wp_version_check() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\class-wp-hook.php:284
+[23-Jun-2020 02:53:38 UTC] PHP   8. trigger_error() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\update.php:160
+[23-Jun-2020 02:53:38 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\update.php on line 384
+[23-Jun-2020 02:53:38 UTC] PHP Stack trace:
+[23-Jun-2020 02:53:38 UTC] PHP   1. {main}() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\update.php:0
+[23-Jun-2020 02:53:38 UTC] PHP   2. Plugin_Upgrader->install() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\update.php:162
+[23-Jun-2020 02:53:38 UTC] PHP   3. Plugin_Upgrader->run() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\class-plugin-upgrader.php:108
+[23-Jun-2020 02:53:38 UTC] PHP   4. do_action() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\class-wp-upgrader.php:835
+[23-Jun-2020 02:53:38 UTC] PHP   5. WP_Hook->do_action() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\plugin.php:465
+[23-Jun-2020 02:53:38 UTC] PHP   6. WP_Hook->apply_filters() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\class-wp-hook.php:310
+[23-Jun-2020 02:53:38 UTC] PHP   7. wp_update_plugins() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\class-wp-hook.php:284
+[23-Jun-2020 02:53:38 UTC] PHP   8. trigger_error() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\update.php:384
+[23-Jun-2020 02:53:38 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\update.php on line 569
+[23-Jun-2020 02:53:38 UTC] PHP Stack trace:
+[23-Jun-2020 02:53:38 UTC] PHP   1. {main}() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\update.php:0
+[23-Jun-2020 02:53:38 UTC] PHP   2. Plugin_Upgrader->install() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\update.php:162
+[23-Jun-2020 02:53:38 UTC] PHP   3. Plugin_Upgrader->run() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\class-plugin-upgrader.php:108
+[23-Jun-2020 02:53:38 UTC] PHP   4. do_action() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\class-wp-upgrader.php:835
+[23-Jun-2020 02:53:38 UTC] PHP   5. WP_Hook->do_action() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\plugin.php:465
+[23-Jun-2020 02:53:38 UTC] PHP   6. WP_Hook->apply_filters() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\class-wp-hook.php:310
+[23-Jun-2020 02:53:38 UTC] PHP   7. wp_update_themes() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\class-wp-hook.php:284
+[23-Jun-2020 02:53:38 UTC] PHP   8. trigger_error() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\update.php:569
+[23-Jun-2020 02:57:38 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\translation-install.php on line 65
+[23-Jun-2020 02:57:38 UTC] PHP Stack trace:
+[23-Jun-2020 02:57:38 UTC] PHP   1. {main}() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\options-general.php:0
+[23-Jun-2020 02:57:38 UTC] PHP   2. wp_get_available_translations() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\options-general.php:158
+[23-Jun-2020 02:57:38 UTC] PHP   3. translations_api() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\translation-install.php:126
+[23-Jun-2020 02:57:38 UTC] PHP   4. trigger_error() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\translation-install.php:65
+[23-Jun-2020 03:38:24 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\translation-install.php on line 65
+[23-Jun-2020 03:38:24 UTC] PHP Stack trace:
+[23-Jun-2020 03:38:24 UTC] PHP   1. {main}() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\options-general.php:0
+[23-Jun-2020 03:38:24 UTC] PHP   2. wp_get_available_translations() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\options-general.php:158
+[23-Jun-2020 03:38:24 UTC] PHP   3. translations_api() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\translation-install.php:126
+[23-Jun-2020 03:38:24 UTC] PHP   4. trigger_error() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\translation-install.php:65
+[23-Jun-2020 09:42:59 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\translation-install.php on line 65
+[23-Jun-2020 09:42:59 UTC] PHP Stack trace:
+[23-Jun-2020 09:42:59 UTC] PHP   1. {main}() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\options-general.php:0
+[23-Jun-2020 09:42:59 UTC] PHP   2. wp_get_available_translations() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\options-general.php:158
+[23-Jun-2020 09:42:59 UTC] PHP   3. translations_api() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\translation-install.php:126
+[23-Jun-2020 09:42:59 UTC] PHP   4. trigger_error() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\translation-install.php:65
+[23-Jun-2020 11:20:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\update.php on line 394
+[23-Jun-2020 11:20:51 UTC] PHP Stack trace:
+[23-Jun-2020 11:20:51 UTC] PHP   1. {main}() C:\Users\USER\Local Sites\emmymedia\app\public\wp-cron.php:0
+[23-Jun-2020 11:20:51 UTC] PHP   2. do_action_ref_array() C:\Users\USER\Local Sites\emmymedia\app\public\wp-cron.php:133
+[23-Jun-2020 11:20:51 UTC] PHP   3. WP_Hook->do_action() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\plugin.php:531
+[23-Jun-2020 11:20:51 UTC] PHP   4. WP_Hook->apply_filters() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\class-wp-hook.php:310
+[23-Jun-2020 11:20:51 UTC] PHP   5. wp_update_plugins() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\class-wp-hook.php:286
+[23-Jun-2020 11:20:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\update.php on line 404
+[23-Jun-2020 11:20:51 UTC] PHP Stack trace:
+[23-Jun-2020 11:20:51 UTC] PHP   1. {main}() C:\Users\USER\Local Sites\emmymedia\app\public\wp-cron.php:0
+[23-Jun-2020 11:20:51 UTC] PHP   2. do_action_ref_array() C:\Users\USER\Local Sites\emmymedia\app\public\wp-cron.php:133
+[23-Jun-2020 11:20:51 UTC] PHP   3. WP_Hook->do_action() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\plugin.php:531
+[23-Jun-2020 11:20:51 UTC] PHP   4. WP_Hook->apply_filters() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\class-wp-hook.php:310
+[23-Jun-2020 11:20:51 UTC] PHP   5. wp_update_plugins() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\class-wp-hook.php:286
+[25-Jun-2020 07:28:26 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\plugin-install.php on line 180
+[25-Jun-2020 07:28:26 UTC] PHP Stack trace:
+[25-Jun-2020 07:28:26 UTC] PHP   1. {main}() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\plugin-install.php:0
+[25-Jun-2020 07:28:26 UTC] PHP   2. do_action() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\plugin-install.php:170
+[25-Jun-2020 07:28:26 UTC] PHP   3. WP_Hook->do_action() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\plugin.php:465
+[25-Jun-2020 07:28:26 UTC] PHP   4. WP_Hook->apply_filters() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\class-wp-hook.php:310
+[25-Jun-2020 07:28:26 UTC] PHP   5. install_dashboard() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\class-wp-hook.php:286
+[25-Jun-2020 07:28:26 UTC] PHP   6. install_popular_tags() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\plugin-install.php:271
+[25-Jun-2020 07:28:26 UTC] PHP   7. plugins_api() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\plugin-install.php:246
+[25-Jun-2020 07:28:26 UTC] PHP   8. trigger_error() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\plugin-install.php:180
+[25-Jun-2020 07:29:11 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\update.php on line 160
+[25-Jun-2020 07:29:11 UTC] PHP Stack trace:
+[25-Jun-2020 07:29:11 UTC] PHP   1. {main}() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\update.php:0
+[25-Jun-2020 07:29:11 UTC] PHP   2. Plugin_Upgrader->install() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\update.php:162
+[25-Jun-2020 07:29:11 UTC] PHP   3. Plugin_Upgrader->run() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\class-plugin-upgrader.php:108
+[25-Jun-2020 07:29:11 UTC] PHP   4. do_action() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\class-wp-upgrader.php:835
+[25-Jun-2020 07:29:11 UTC] PHP   5. WP_Hook->do_action() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\plugin.php:465
+[25-Jun-2020 07:29:11 UTC] PHP   6. WP_Hook->apply_filters() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\class-wp-hook.php:310
+[25-Jun-2020 07:29:11 UTC] PHP   7. wp_version_check() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\class-wp-hook.php:284
+[25-Jun-2020 07:29:11 UTC] PHP   8. trigger_error() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\update.php:160
+[25-Jun-2020 07:29:11 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\update.php on line 384
+[25-Jun-2020 07:29:11 UTC] PHP Stack trace:
+[25-Jun-2020 07:29:11 UTC] PHP   1. {main}() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\update.php:0
+[25-Jun-2020 07:29:11 UTC] PHP   2. Plugin_Upgrader->install() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\update.php:162
+[25-Jun-2020 07:29:11 UTC] PHP   3. Plugin_Upgrader->run() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\class-plugin-upgrader.php:108
+[25-Jun-2020 07:29:11 UTC] PHP   4. do_action() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\class-wp-upgrader.php:835
+[25-Jun-2020 07:29:11 UTC] PHP   5. WP_Hook->do_action() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\plugin.php:465
+[25-Jun-2020 07:29:11 UTC] PHP   6. WP_Hook->apply_filters() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\class-wp-hook.php:310
+[25-Jun-2020 07:29:11 UTC] PHP   7. wp_update_plugins() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\class-wp-hook.php:284
+[25-Jun-2020 07:29:11 UTC] PHP   8. trigger_error() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\update.php:384
+[25-Jun-2020 07:29:11 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\update.php on line 569
+[25-Jun-2020 07:29:11 UTC] PHP Stack trace:
+[25-Jun-2020 07:29:11 UTC] PHP   1. {main}() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\update.php:0
+[25-Jun-2020 07:29:11 UTC] PHP   2. Plugin_Upgrader->install() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\update.php:162
+[25-Jun-2020 07:29:11 UTC] PHP   3. Plugin_Upgrader->run() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\class-plugin-upgrader.php:108
+[25-Jun-2020 07:29:11 UTC] PHP   4. do_action() C:\Users\USER\Local Sites\emmymedia\app\public\wp-admin\includes\class-wp-upgrader.php:835
+[25-Jun-2020 07:29:11 UTC] PHP   5. WP_Hook->do_action() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\plugin.php:465
+[25-Jun-2020 07:29:11 UTC] PHP   6. WP_Hook->apply_filters() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\class-wp-hook.php:310
+[25-Jun-2020 07:29:11 UTC] PHP   7. wp_update_themes() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\class-wp-hook.php:284
+[25-Jun-2020 07:29:11 UTC] PHP   8. trigger_error() C:\Users\USER\Local Sites\emmymedia\app\public\wp-includes\update.php:569
